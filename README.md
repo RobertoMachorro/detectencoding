@@ -23,3 +23,9 @@ Gültig bis:
 René 
 ] macOSRoman
 ```
+
+## References
+
+* [NSString.stringEncoding](https://developer.apple.com/documentation/foundation/nsstring/1413576-stringencoding)
+* [NSStringEncoding](https://developer.apple.com/documentation/foundation/nsstringencoding)
+* [Guess encoding when creating an NSString from NSData](https://stackoverflow.com/questions/1351151/guess-encoding-when-creating-an-nsstring-from-nsdata)
