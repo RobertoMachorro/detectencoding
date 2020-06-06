@@ -24,6 +24,14 @@ René
 ] macOSRoman
 ```
 
+## Getting the Playground
+
+Xcode likes Playgrounds to have the .playground extension, so when cloning do:
+
+```
+git clone git@github.com:RobertoMachorro/detectencoding.git detectencoding.playground
+```
+
 ## References
 
 * [NSString.stringEncoding](https://developer.apple.com/documentation/foundation/nsstring/1413576-stringencoding)
